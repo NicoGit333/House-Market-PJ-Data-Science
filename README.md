@@ -1,11 +1,13 @@
-# DATATHON SoyHenry
+House Price Prediction - Data Science
 
-## Temática
+## Theme
 
-Para este proyecto #2 de Machinle Learning, tengo la tarea de predecir los precios de vivienda, para se determinara si un precio de una vivienda es 'Low' o no, es decir si es economico o no. 
+For this Machine Learning project #2, I have the task of predicting housing prices, for this it will be determined if a house price is 'Low' or not, that is, if it is economical or not.
 
-Ya que el mercado inmobiliario es parte fundamental de la sociedad y la economia actual, es muy interesante poder tratar de predecir el precio con ciertas variables que tenemos, por ejemplo: numero de cuartos, numero de baños, area de la vivienda, localizacion, parqueadero, entre varias otras. 
+Since the real estate market is a fundamental part of society and the current economy, it is very interesting to be able to try to predict the price with certain variables that we have, for example: number of rooms, number of bathrooms, area of the home, location, parking. , among several others.
 
-La idea es poder predecir con estas variables si el precio de un inmueble es menor a 1000 este se categorizara como "low" es decir, economico. Y si no se categorizara como no economico.
+The idea is to be able to predict with these variables if the price of a property is less than 1000, it will be categorized as "low", that is, economical. And if not, it would be categorized as not economical.
 
-Con esto podemos sacar un monton de conclusiones y hacer muchisimos ejercicios, por ejemplo si queremos invertir en un inmueble y queremos saber si el precio de determinado inmueble es acorde a sus caracteristicas, podemos evaluar esto comparando su precio con el de nuestro modelo, y asi seguir haciendo muchisimos ejercicios en el dia a dia que le pueden servir tanto a un individuo como una empresa.
+With this we can draw a lot of conclusions and do many exercises, for example if we want to invest in a property and we want to know if the price of a certain property is in accordance with its characteristics, we can evaluate this by comparing its price with that of our model, and so on. continue doing many exercises on a daily basis that can be useful to both an individual and a company.
+
+For this I will use a Machine Learning model where the model is trained with a specific file, that is, it already has real prices, and then download the data in CSV form and predict future prices.
